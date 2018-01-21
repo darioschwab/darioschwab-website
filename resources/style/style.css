@@ -1,0 +1,25 @@
+/* 
+    Document   : style
+    Created on : Jul 5, 2012, 4:08:40 PM
+    Author     : Dario
+    Description:
+*/
+
+html {
+    background-image: url(https://darioschwab.ch/resources/images/darioschwab.logo.png), url(https://darioschwab.ch/resources/images/darioschwab.logo.bg.png);
+    background-repeat: no-repeat, repeat-y;
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12pt;
+}
+
+.paragraph {
+	background-color: #FFFFFF;
+}
+
+.contactBox {
+	background-color: #FFFFFF;
+}
+
+.avoidwrap {
+	display: inline-block;
+}
