@@ -1,2 +1,3 @@
-# darioschwab-website
-Website source of https://darioschwab.ch
+## Welcome to darioschwab.ch
+
+This is the minimalistic source code of [darioschwab.ch](https://darioschwab.ch)
