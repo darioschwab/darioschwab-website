@@ -37,6 +37,16 @@ html {
 a {
     font-weight: bold;
     color: #000;
+
+}
+
+.buttonlink {
+    padding-left: : 8px;
+    padding-right: 8px;
+}
+
+.firstinrow {
+    padding-left: 0px;
 }
 
 .paragraph {
